@@ -1,5 +1,6 @@
 # Naima Ontiveros
 # Rock Paper Scissors
+# added a comment
 #VAIRABLES
 import random
 
