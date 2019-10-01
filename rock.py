@@ -96,9 +96,8 @@ while True:
 			print("This is a tie oof")
 			ties = ties + 1
 		# if computer is s
-		
-
-		
+	else:
+		print("That's not an option")
 
 
 	# deal with player entering anything else
